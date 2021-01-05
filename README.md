@@ -18,7 +18,7 @@ make install
 # reload or restart your terminal
 ```
 
-Adding the following to your `.bashrc` or `.zshrc` config in order to take effect immediately, and the reload your shell
+Adding the following to your `.bashrc` or `.zshrc` config in order to take effect immediately, and then reload your shell
 
 ```sh
 # make sure new session takes the new aws profile
