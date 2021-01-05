@@ -14,6 +14,8 @@ Configure your AWS profile via aws cli
 git clone https://github.com/mong0520/aws-profile-switcher.git
 cd aws-profile-switcher
 make install
+
+# reload or restart your terminal
 ```
 
 Adding the following to your `.bashrc` or `.zshrc` config in order to take effect immediately, and the reload your shell
